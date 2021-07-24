@@ -1,0 +1,6 @@
+---
+# Configuration for version v12.0.0
+BasedOnStyle: Microsoft
+
+ColumnLimit: 160
+IndentWidth: 4
